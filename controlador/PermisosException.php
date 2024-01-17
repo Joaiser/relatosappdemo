@@ -1,5 +1,5 @@
 <?php
-/*Clase PermisosException*/
+/*Clase PermisosException obj1*/
 
  class PermisosException extends Exception {
     
