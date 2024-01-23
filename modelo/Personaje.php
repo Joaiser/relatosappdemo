@@ -8,7 +8,7 @@ include_once ("PersonajeImagen.php");
 /* *******************************************************************************************
  
  * CLASE Personaje de BD 2 objetivo2
- * Aitor Vicent Alias ElBicho
+ * Aitor Vicent Alias ElBicho2
 
  * ***************************************************************************************** */
 
