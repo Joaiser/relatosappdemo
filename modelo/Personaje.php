@@ -7,7 +7,8 @@ include_once ("PersonajeImagen.php");
 
 /* *******************************************************************************************
  
- * CLASE Personaje de BD 2 objetivo2
+ * CLASE Personaje de BD 2 objetivo2 
+ * Cambio2 hecho por Aitor Vicent Cuadrado
 
  * ***************************************************************************************** */
 
